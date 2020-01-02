@@ -1,11 +1,16 @@
-# Joyful Development with Symfony
+# Project From SymfonyCasts
 
-Well hi there! This repository holds the code and script
-for the Symfony course on KnpUniversity.
+## Series:
+
+1. https://symfonycasts.com/screencast/symfony3/resume
+2. https://symfonycasts.com/screencast/symfony3-fundamentals/resume
+3. https://symfonycasts.com/screencast/symfony3-doctrine/resume
+4. https://symfonycasts.com/screencast/symfony3-doctrine-relations/resume
+5. https://symfonycasts.com/screencast/symfony3-doctrine-relations/resume
+6. https://symfonycasts.com/screencast/symfony-services/resume
+7. https://symfonycasts.com/screencast/symfony3-forms/resume
 
 ## Setup
-
-If you've just downloaded the code, congratulations!
 
 To get it working, follow these steps:
 
@@ -57,14 +62,4 @@ php bin/console server:run
 
 Now check out the site at `http://localhost:8000`
 
-Have fun!
 
-## Have some Ideas or Feedback?
-
-And as always, thanks so much for your support and letting us do what
-we love!
-
-If you have suggestions or questions, please feel free to
-open an issue or message us.
-
-<3 Your friends at KnpUniversity
